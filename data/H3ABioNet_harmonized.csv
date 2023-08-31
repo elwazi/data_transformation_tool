@@ -1,0 +1,10 @@
+record_id,pid,height,age,gender,birthPlace,ethnicity
+1,h3a_fake_1,174.0,29.0,1,Botswana,Kikuyu
+2,h3a_fake_2,111.0,28.0,2,Congo,Tigre
+3,h3a_fake_3,96.0,44.0,2,Ethiopia,Berbers
+4,h3a_fake_4,53.0,35.0,3,Angola,Bassa
+5,h3a_fake_5,176.0,22.0,3,Gambia,Esan
+6,h3a_fake_6,269.0,42.0,3,Nigeria,Nambya
+7,h3a_fake_7,156.0,31.0,3,Congo,Zaghawa
+8,h3a_fake_8,154.0,33.0,1,Congo,Tigre
+9,h3a_fake_9,178.0,20,3,Nigeria,Acholi
